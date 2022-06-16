@@ -1,0 +1,1 @@
+"use strict";(()=>{var n=Object.defineProperty;var a=(_,e)=>n(_,"name",{value:e,configurable:!0});(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([["memex-latest"],{96922:(_,e,s)=>{var t=s(70902),l=s.n(t)}},_=>{var e=a(t=>_(_.s=t),"__webpack_exec__");_.O(0,["vendors-node_modules_memex-frontend-latest_dist_client_app_bundle_js"],()=>e(96922));var s=_.O()}]);})();
